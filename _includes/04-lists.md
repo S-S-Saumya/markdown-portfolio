@@ -1,9 +1,8 @@
 :smile:
 
-1.Books
+- Books
+  - The Fault in my stars
 
-  1.The Fault in my stars
+  - Me before you
 
-  2.Me before you
-
-  3.After you
+  - After you
